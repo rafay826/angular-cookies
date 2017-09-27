@@ -1,6 +1,7 @@
 {
-  "name": "@angular/cookies",
-  "version": "0.0.0",
+  "name": "ng2-cookie",
+  "description": "Angular cookie service. Create, get, and check cookies.",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
